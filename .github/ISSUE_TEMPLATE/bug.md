@@ -1,12 +1,12 @@
 ---
 name: 问题反馈
-about: 报告 DSH 插件的问题
-title: "[插件名] 简要描述"
+about: 报告 DSH 插件使用中遇到的问题
+title: "[简要描述]"
 labels: ""
 assignees: ""
 ---
 
-**插件**：dsh-log-prune / dsh-toolbox / 其他
+**插件**：
 **版本**：
 **现象**：
 **复现步骤**：
